@@ -1,8 +1,17 @@
+body{
+    background-color: black;
+}
+.greenY{
+    color: greenyellow;
+}
 .card{
     margin: 5px;
     width: 150px;
     height: 150px;
     /*overflow: hidden;*/
+}
+.cardRow{
+    display: flex;
 }
 .card img{
     width: 100%;
